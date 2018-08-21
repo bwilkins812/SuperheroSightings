@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 User Access Screenshots
 
-Users can create, read, or update superheroes/supervillains, but they cannot delete
+Users can create, read, or update superheroes/supervillains, but they cannot delete.  Additional sightings, organizations, or superpowers can be added.
 ![user superheroes supervillains](https://user-images.githubusercontent.com/30512121/44425537-26b78080-a55a-11e8-9e75-e70ce703d109.png)
 
 Users can create, read, or update sightings, but they cannot delete
