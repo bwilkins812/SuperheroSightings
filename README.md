@@ -48,7 +48,7 @@ Editing sightings
 ![user edit sighting](https://user-images.githubusercontent.com/30512121/44426142-dc370380-a55b-11e8-93ee-88365280218e.png)
 
 Editing locations
-![user edit location](https://user-images.githubusercontent.com/30512121/44426145-de995d80-a55b-11e8-94d0-ab0d7407d794.png)
+![user edit location](https://user-images.githubusercontent.com/30512121/44428290-ecea7800-a561-11e8-9b31-c4701024b35a.png)
 
 Editing superpowers
 ![user edit superpower](https://user-images.githubusercontent.com/30512121/44426150-e0fbb780-a55b-11e8-9adf-d3c9bacc4ba2.png)
