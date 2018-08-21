@@ -74,6 +74,19 @@ Admin superpowers page
 
 _______________________________________________________________________________________________________________
 
+Admins can create, update, or disable users of the application
+
+This page diplays the users of the application
+![ss user list](https://user-images.githubusercontent.com/30512121/44429063-43f14c80-a564-11e8-9bf7-bca0acba5c97.png)
+
+This page allows an admin to add a user or another admin by selecting the checkbox.
+![ss add user](https://user-images.githubusercontent.com/30512121/44429067-481d6a00-a564-11e8-9910-d8ee66b33370.png)
+
+This page allows for editing.  Access can be changed by selecting or not selecting checkbox.  New password is required.
+![ss edit users](https://user-images.githubusercontent.com/30512121/44429065-4653a680-a564-11e8-8573-52bff7954ba6.png)
+
+_______________________________________________________________________________________________________________
+
 Photos (The ability to add photos to the application was a challenge and not required)
 
 Add a profile photo
