@@ -55,7 +55,7 @@ Editing superpowers
 
 _______________________________________________________________________________________________________________
 
-Admin Access Screenshots - Notice screens now have the 'Admin' selection in the navbar and the delete options are visible
+Admin Access Screenshots - Notice screens now have the 'User Admin' selection in the navbar and the delete options are visible
 
 Admin superheroes/supervillains page
 ![admin shsv](https://user-images.githubusercontent.com/30512121/44426159-e8bb5c00-a55b-11e8-9d9f-1f9c5f059847.png)
