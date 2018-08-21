@@ -83,6 +83,7 @@ Add a sighting photo
 ![add sighting photo](https://user-images.githubusercontent.com/30512121/44426116-ccb7ba80-a55b-11e8-9790-4907a0351c5c.png)
 
 Picture Gallery
+
 ![picture gallery](https://user-images.githubusercontent.com/30512121/44426125-d2ad9b80-a55b-11e8-937a-2ce6a3a9b712.png)
 
 _______________________________________________________________________________________________________________
