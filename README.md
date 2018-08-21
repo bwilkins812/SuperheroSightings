@@ -1,7 +1,7 @@
 # SuperheroSightings
 My Software Guild Milestone 9 and Capstone project:  Superhero Sightings
 
-The Superhero Sightings project was the culmination of my Software Guild coursework.  In this project I was able to demonstrate my proficiency in everything I had learned throughout the course.  This is a web MVC app that uses a relational database that I created along with Spring security.  Application security is limited to three types:  anonymous, sidekick(user), and admin.  It is possible to add as many users or admins within the program as desired.  It is also possible to change roles; e.g., an user can be changed to an admin or an admin can be changed to a user.  Users and admins can also be removed from the system.  All passwords are encoded using BCrypt.
+The Superhero Sightings project was the culmination of my Software Guild coursework.  In this project I was able to demonstrate my proficiency in everything I had learned throughout the course.  This is a Spring MVC web app that uses a relational database that I created along with Spring security.  Application security is limited to three types:  anonymous, sidekick(user), and admin.  It is possible to add as many users or admins within the program as desired.  It is also possible to change roles; e.g., an user can be changed to an admin or an admin can be changed to a user.  Users and admins can also be removed from the system.  All passwords are encoded using BCrypt.
 _______________________________________________________________________________________________________________
 
 Anonymous Access Screenhots
